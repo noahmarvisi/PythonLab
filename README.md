@@ -1,5 +1,5 @@
 # *Machine Learning with Python Labs*
-
+## Summary
 ### Part1: 
 https://github.com/nehma158/PythonLab/blob/main/PythonLab.ipynb
 * Drive.mount()
@@ -29,13 +29,21 @@ https://github.com/nehma158/PythonLab/blob/main/PythonLab_5.ipynb
 
 
 
-## Other github repo:
+## Other github repositories:
 https://github.com/nehma158/PythonLab
 
 https://github.com/SteBaum/First_Colab_saving
+
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
 
 https://github.com/allankouidri/Second_colab_notebook
 
 https://github.com/Anne-Sophie-Andersson/Python-Labs
 
 https://github.com/timdgn/Google-Colab
+
+
+## Ressources
+https://github.com/dipanjanS/practical-machine-learning-with-python
+
+
