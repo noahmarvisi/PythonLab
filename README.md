@@ -34,8 +34,6 @@ https://github.com/nehma158/PythonLab
 
 https://github.com/SteBaum/First_Colab_saving
 
-https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
-
 https://github.com/allankouidri/Second_colab_notebook
 
 https://github.com/Anne-Sophie-Andersson/Python-Labs
@@ -45,5 +43,7 @@ https://github.com/timdgn/Google-Colab
 
 ## Ressources
 https://github.com/dipanjanS/practical-machine-learning-with-python
+
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
 
 
