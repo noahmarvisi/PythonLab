@@ -1,7 +1,7 @@
 # *Machine Learning with Python Labs*
 ## Summary
 ### Part1: 
-https://github.com/nehma158/PythonLab/blob/main/PythonLab.ipynb
+https://github.com/nehma158/PythonLab/blob/main/PythonLab_1.ipynb
 * Drive.mount()
 * Download a dataset using wget
 * Download a dataset in skitlearn
