@@ -29,7 +29,7 @@ https://github.com/nehma158/PythonLab/blob/main/PythonLab_5.ipynb
 
 
 
-## Other github repositories:
+## Other students Github
 https://github.com/nehma158/PythonLab
 
 https://github.com/SteBaum/First_Colab_saving
@@ -41,7 +41,7 @@ https://github.com/Anne-Sophie-Andersson/Python-Labs
 https://github.com/timdgn/Google-Colab
 
 
-## Ressources
+## Other ressources:
 https://github.com/dipanjanS/practical-machine-learning-with-python
 
 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
