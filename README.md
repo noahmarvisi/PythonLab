@@ -4,7 +4,7 @@
 https://github.com/nehma158/PythonLab/blob/main/PythonLab.ipynb
 * Drive.mount()
 * Download a dataset using wget
-* Download a dataset using skitlearn
+* Download a dataset in skitlearn
 
 ### Part2: 
 https://github.com/nehma158/PythonLab/blob/main/PythonLab_2.ipynb
