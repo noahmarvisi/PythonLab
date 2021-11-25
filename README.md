@@ -10,6 +10,7 @@ https://github.com/nehma158/PythonLab/blob/main/PythonLab_1.ipynb
 https://github.com/nehma158/PythonLab/blob/main/PythonLab_2.ipynb
 * Clone a github repo to our colab
 * Variables
+* F-strings
 * Functions
 
 ### Part3: 
