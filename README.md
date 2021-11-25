@@ -41,7 +41,7 @@ https://github.com/Anne-Sophie-Andersson/Python-Labs
 https://github.com/timdgn/Google-Colab
 
 
-## Other ressources:
+## Other ressources
 https://github.com/dipanjanS/practical-machine-learning-with-python
 
 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
