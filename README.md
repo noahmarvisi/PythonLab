@@ -1,4 +1,4 @@
-# PythonLab
+# *Machine Learning with Python Labs*
 
 ### Part1: 
 https://github.com/nehma158/PythonLab/blob/main/PythonLab.ipynb
